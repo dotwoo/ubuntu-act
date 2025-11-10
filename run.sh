@@ -1,0 +1,1 @@
+docker buildx build -f Dockerfile -t dotwoo/ubuntu:awscli-act-latest . --platform linux/amd64
